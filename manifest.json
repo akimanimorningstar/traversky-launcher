@@ -1,0 +1,6 @@
+{
+  manifest version : 2,
+  "name" : "travesky launcher",
+  "description": "quick launcher",
+  "version": "1.0.0"
+}
